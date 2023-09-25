@@ -64,7 +64,7 @@
                 <div class="col-md-12">
                     <div class="mt-1 mb-3 clearfix">
                         <div >
-                        <img src="https://www.kent.co.in/images/logo/kent-logo-healthcare.svg" alt="kent" width="90" height="58">
+                        <img src="https:.svg" alt="kent" width="90" height="58">
                     </div>
         <h2 class="pull-left">Employees Details and Tasks</h2>
                        
