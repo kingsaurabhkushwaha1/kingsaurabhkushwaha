@@ -152,7 +152,7 @@
 
 
                     <span >Created By <a href="https://in.linkedin.com/in/kingsaurabhkushwaha">Saurabh kumar</a> | <span class="far fa-copyright"></span> 2023 All rights reserved.</span>
-                    <span >Organization  <a href="https://www.kent.co.in/">Kent RO System</a> | <span class="far fa-copyright"></span> 2023 All rights reserved.</span>
+                    <span >Organization  <a href="https://in.linkedin.com/in/kingsaurabhkushwaha">SAURABH KUMAR</a> | <span class="far fa-copyright"></span> 2023 All rights reserved.</span>
                         
                 
               </footer>
